@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- ═══════════ ANIMATED TYPING HEADER ═══════════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=3000&pause=600&color=FF6EC7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Cute+Xora;%E2%9C%A8+AI+Companion+Creator+%26+Automation+Lover;%F0%9F%9B%A0%EF%B8%8F+Android+%26+Termux+Power+User;%F0%9F%8E%AE+Turning+Ideas+Into+Reality;%F0%9F%9A%80+Let's+Build+Something+Amazing" alt="Typing Animation" />
+  <!-- ═══════════ ANIMATED TYPING HEADER (MONO BOLD) ═══════════ -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=600&color=FF6EC7&center=true&vCenter=true&width=1050&height=110&lines=%F0%9F%91%8B+Hi%2C+I'm+Cute+Xora;%E2%9C%A8+AI+Companion+Creator+%26+Automation+Lover;%F0%9F%9B%A0%EF%B8%8F+Android+%26+Termux+Power+User;%F0%9F%8E%AE+Turning+Ideas+Into+Reality;%F0%9F%9A%80+Let's+Build+Something+Amazing" alt="Typing Animation" />
 
-### `Developer` &nbsp;|&nbsp; `Learner` &nbsp;|&nbsp; `Creator` &nbsp;|&nbsp; `Dreamer`
+  ### `Developer` &nbsp;|&nbsp; `Learner` &nbsp;|&nbsp; `Creator` &nbsp;|&nbsp; `Dreamer`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20IMPROVE%20%E2%80%A2%20REPEAT&fontSize=24&fontAlignY=55&animation=twinkling" width="100%" alt="Cyberpunk animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20IMPROVE%20%E2%80%A2%20REPEAT&fontSize=24&fontAlignY=55&animation=twinkling" width="100%" alt="Animated header" />
 
-> **“Better Code · Better Tomorrow”** 🚀
+  > **“Better Code · Better Tomorrow”** 🚀
 
   <br/>
 
@@ -26,19 +26,22 @@
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED ABOUT ═══════════════════════ -->
 <div align="center">
 
 ## 🌸 About Me
-**Hi! I'm Cute Xora** 
 
-A passionate creator who loves turning ideas into intelligent, playful experiences. ✨
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=400&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Passionate+Creator+%26+Developer;%F0%9F%92%A1+Turning+Ideas+Into+Reality;%F0%9F%A4%96+AI+Companions+%26+Automation+Tools;%F0%9F%93%B1+Android+%2B+Termux+Playground;%E2%9C%A8+Code+%2B+Creativity+%3D+Magic" alt="About Animation" />
 
-- 🛠️ **Building:** AI companions, automation tools & fun projects
-- 📱 **Living in:** Android + Termux — my favourite dev playground
-- 🤖 **Obsessed with:** AI, bots, automation & game design
-- 💬 **Ask me about:** Python, AI, Termux, bots, automation, anything tech
-- ⚡ **Fun fact:** I believe code + creativity can change the world
+  <br/>
+
+  **A passionate creator who loves turning ideas into intelligent, playful experiences.**
+
+  - 🛠️ **Building:** AI companions, automation tools & fun projects
+  - 📱 **Living in:** Android + Termux — my favourite dev playground
+  - 🤖 **Obsessed with:** AI, bots, automation & game design
+  - 💬 **Ask me about:** Python, AI, Termux, bots, automation, anything tech
+  - ⚡ **Fun fact:** I believe code + creativity can change the world
 
 </div>
 
@@ -93,9 +96,33 @@ A passionate creator who loves turning ideas into intelligent, playful experienc
 ---
 
 <!-- ═══════════════════════ LIVE STATS ═══════════════════════ -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=cutexora&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=cutexora&theme=highcontrast&hide_border=false)<br/>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=cutexora&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cutexora&hide_border=true&theme=radical&background=0D1117&fire=FF6EC7&ring=FF6EC7&stroke=FF6EC7" width="49%" alt="Streak Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutexora&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" width="40%" alt="Top Languages" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
+## 🏆 Achievements
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=cutexora&theme=radical&no-frame=true&row=1&column=6&margin-w=12" alt="Trophies" />
+
+  <br/>
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=cutexora&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="60%" alt="Contributor Stats" />
+
+</div>
 
 ---
 
@@ -107,11 +134,24 @@ A passionate creator who loves turning ideas into intelligent, playful experienc
 | 🏆 Project | Visibility | What it is |
 |-----------|-----------|------------|
 | **[rci-apply](https://github.com/cutexora/rci-apply)** | 🌍 Public | RCI Apply — Bihar RTPS certificates made easy |
-| **[cutexora]** | 🌍 Public | My GitHub Universe — this profile ✨ |
+| **[cutexora](https://github.com/cutexora/cutexora)** | 🌍 Public | My GitHub Universe — this profile ✨ |
 
 </div>
 
 ---
+
+<!-- ═══════════════════════ DEV CARD ═══════════════════════ -->
+## 💳 Dev Card
+
+<div align="center">
+
+  <img src="https://api.daily.dev/devcards/v2/cutexora.png?r=1s" width="300" alt="Dev Card" />
+
+</div>
+
+---
+
+<div align="center">
 
   <!-- ═══════════ ANIMATED FOOTER ═══════════ -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
@@ -122,7 +162,7 @@ A passionate creator who loves turning ideas into intelligent, playful experienc
 
   <br/>
 
-  **Made with 💖 by [Cute Xora](https://github.com/cutexora)**
+  **Made with 💖 by [Cute Xora ✨](https://github.com/cutexora)**
 
   <sub>Last updated: September 2026</sub>
 
