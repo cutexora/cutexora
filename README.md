@@ -28,8 +28,6 @@
 
 **Hi! I'm Cute Xora** — a passionate creator who loves turning ideas into intelligent, playful experiences. ✨
 
-- 🤖 **Building:** [Alexa](https://github.com/cutexora) — a personal AI companion assistant
-- 🎮 **Playing:** [Fun2Money](https://github.com/cutexora) — Play to Win 4 Enjoy
 - 🧾 **Automating:** [rci-apply](https://github.com/cutexora/rci-apply) — smart Bihar RTPS applications
 - 💬 **Ask me about:** AI, bots, automation, game design, Android & Termux
 - ⚡ **Fun fact:** I believe code + creativity can change the world
@@ -56,10 +54,8 @@
 
 | 🏆 Project | Visibility | What it is |
 |-----------|-----------|------------|
-| **Alexa** | 🔒 Private | Personal AI Companion Assistant |
-| **Fun2Money** | 🔒 Private | Play to Win 4 Enjoy |
 | **[rci-apply](https://github.com/cutexora/rci-apply)** | 🌍 Public | RCI Apply — Bihar RTPS certificates made easy |
-| **[Show-Off](https://github.com/cutexora/Show-Off)** | 🌍 Public | My GitHub Universe — this profile ✨ |
+| **[cutexora](https://github.com/cutexora)** | 🌍 Public | My GitHub Universe — this profile ✨ |
 
 </div>
 
