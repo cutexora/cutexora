@@ -3,6 +3,12 @@
   <!-- ═══════════ ANIMATED TYPING HEADER ═══════════ -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=3000&pause=600&color=FF6EC7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Cute+Xora;%E2%9C%A8+AI+Companion+Creator+%26+Automation+Lover;%F0%9F%9B%A0%EF%B8%8F+Android+%26+Termux+Power+User;%F0%9F%8E%AE+Turning+Ideas+Into+Reality;%F0%9F%9A%80+Let's+Build+Something+Amazing" alt="Typing Animation" />
 
+### `Developer` &nbsp;|&nbsp; `Learner` &nbsp;|&nbsp; `Creator` &nbsp;|&nbsp; `Dreamer`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20IMPROVE%20%E2%80%A2%20REPEAT&fontSize=24&fontAlignY=55&animation=twinkling" width="100%" alt="Cyberpunk animated header" />
+
+> **“Better Code · Better Tomorrow”** 🚀
+
   <br/>
 
   <!-- ═══════════ LIVE PROFILE BADGES ═══════════ -->
